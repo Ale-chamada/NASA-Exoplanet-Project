@@ -110,4 +110,25 @@ Understanding these constraints is essential for correctly interpreting patterns
 
 ---
 
-## 🗂️ Project Structure
+# NASA Exoplanet Analysis
+
+## Overview
+Analysis of NASA exoplanet dataset to identify patterns in planetary characteristics.
+
+## Dataset
+- Source: NASA Exoplanet Archive
+
+## Tools Used
+- pandas
+- numpy
+- matplotlib
+- seaborn
+
+
+## Project Structure
+- data/ → dataset
+- NASA-Exoplanet/ → notebook
+- Documentation/ → report
+
+## How to Run
+(Open in Google Colab or Jupyter)
